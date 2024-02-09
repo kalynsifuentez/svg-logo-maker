@@ -1,3 +1,4 @@
+//Declared variables for ffile system, inquirer, shapes, and questions
 const fs = require("fs");
 const inquirer = require("inquirer");
 const { Circle } = require("./lib/shapes.js");
@@ -28,10 +29,12 @@ const questions = [
   },
 ];
 
+//Function to write files
 function writeToFile(fileName, data) {
   return fs.writeFileSync(fileName, data);
 }
 
+//Function provides prompts for questions about the type of logo user wants to create then writes the svg file.
 function init() {
   inquirer
     .prompt(questions)

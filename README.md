@@ -13,7 +13,7 @@ node index.js
 
 ## Video Link
 
-[App Walkthrough](https://github.com/kalynsifuentez/svg-logo-maker.git)
+[App Walkthrough](https://drive.google.com/file/d/1SHz5yQBAS9xjwlo_xa9bXCHluesaHOxg/view)
 
 
 ## Code Source
@@ -22,19 +22,19 @@ node index.js
 ## Examples
 ### Square
 
-![Image showing a pink square with white text that reads "lol.".](examples/square.svg) 
+![Image showing a blue square with white text that reads "kbs.".](examples/square.svg) 
 
 ### Triangle
 
-![Image showing a purple triangle with white text that reads "lol.".](examples/triangle.svg) 
+![Image showing a pink triangle with white text that reads "kbs.".](examples/triangle.svg) 
 
 ### Circle
 
-![Image showing a blue circle with white text that reads "SVG.".](examples/circle.svg) 
+![Image showing a purple circle with white text that reads "kbs.".](examples/circle.svg) 
 
 
 ## Screenshot
-[Example SVG](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
+![Image showing screenshot of CLI for running and testing app](//svg-logo-maker/SVG-logo-maker-CLI-Screenshot.png)
 
 ## Acknowledgements
 
